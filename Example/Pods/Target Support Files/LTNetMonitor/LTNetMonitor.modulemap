@@ -1,0 +1,6 @@
+framework module LTNetMonitor {
+  umbrella header "LTNetMonitor-umbrella.h"
+
+  export *
+  module * { export * }
+}
